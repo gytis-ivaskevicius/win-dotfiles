@@ -1,8 +1,8 @@
 
 choco install -y autohotkey discord firefox neovim cygwin streamlabs-obs git dashlane 7zip
-choco install -y visualstudio2019community nsis openssl
+choco install -y visualstudio2019community nsis openssl gitkraken
 choco install -y steam
-choco install valley-benchmark gpu-z openhardwaremonitor
+rem choco install valley-benchmark gpu-z openhardwaremonitor
 
 pathman /as "C:\Program Files\Git\bin" 
 
